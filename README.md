@@ -1,6 +1,6 @@
 # Getting Started with Create React App and Redux
 
-Deploy URL: https://linkedin-clone-3dccb.web.app
+Deploy URL: https://react-slack-clone-nine.vercel.app/
 
 Database:
  - Firebase
